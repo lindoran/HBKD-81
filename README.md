@@ -1,23 +1,23 @@
 # HBKD-81
 A Open hardware, ZX81 keyboard and case design, based off modern availible parts.
 
-Ok, So this is a rough commit so everybody has a chance to get production going on the keyboard PCB.
+OK, So this is a rough commit so everybody has a chance to get production going on the keyboard PCB.
 this project has many parts so I want to make sure that we don't loose time on something by sitting 
 on designs until the next phase is ready.
 
-additionally, a lot of people have really expressed intrest in just getting a keyboard pcb.
+additionally, a lot of people have really expressed interest in just getting a keyboard pcb.
 
-Here is the design info with some Caviats: 
- - This is CERN-OHL-P - see the very easy to understand open hardware licience 
- - I don't make any garantees or warentees; see the legal disclaimers below
+Here is the design info with some Caveats: 
+ - This is CERN-OHL-P - see the very easy to understand open hardware license 
+ - I don't make any grantees or warrantees; see the legal disclaimers below
  - I don't intednd to sell a product here just sharing what I have, that being 
-   said.  I am an amature, there may be mistakes but my boards worked right
-   out of the box.  additionally i do have experince in home brew and hoby computers
+   said.  I am an armature, there may be mistakes but my boards worked right
+   out of the box.  additionally i do have experience in home brew and hobby computers
    electronics (formal trade school training) and I try to test everything out.
  - No BOM as of yet, but that hopefully completed by the end of the week.  some
    details of what I ordered so far are on the hack a day.  (actually updating the 
    repo on my lunch break at work!)
- - designs are all copywrite David Collins 2023
+ - designs are all copyright David Collins 2023
  
 Sponsorship: 
   This prototype was sponsored by PCBWay!  see their website here for Fabrication, PCB Manufacture 
@@ -32,7 +32,7 @@ Hack a day site:
  
  You can contact me at Z80dad (at) gmail (dot) com
  
- Section 5 of the licence: 
+ Section 5 of the license: 
  
  5 DISCLAIMER AND LIABILITY
 
