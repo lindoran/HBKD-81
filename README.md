@@ -14,9 +14,10 @@ Here is the design info with some Caveats:
    said.  I am an armature, there may be mistakes but my boards worked right
    out of the box.  additionally i do have experience in home brew and hobby computers
    electronics (formal trade school training) and I try to test everything out.
- - No BOM as of yet, but that hopefully completed by the end of the week.  some
+ - <strike>No BOM as of yet, but that hopefully completed by the end of the week.  some
    details of what I ordered so far are on the hack a day.  (actually updating the 
-   repo on my lunch break at work!)
+   repo on my lunch break at work!)</strike
+ - BOM is updated and in Gerber's directory  
  - designs are all copyright David Collins 2023
  
 Sponsorship: 
