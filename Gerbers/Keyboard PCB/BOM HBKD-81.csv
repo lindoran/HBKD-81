@@ -1,0 +1,8 @@
+Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,*Package/Footprint ,Type,Your Instructions / Notes
+1,K0 – K41,42,Cherry,MX1A-11NW,SWITCH PUSH SPST-NO 0.01A 12V,2POS,Thru-hole,This is the bulk cherry MX part see notes in ascii BOM*
+2,U2,1,Stackpole Electronics Inc,CFM14JT1K00,1K ¼ Watt Resister 5%,2POS,Thru-hole,any tolerance 1K ohm Res that fits in the footprint
+3,U1,1,Cree LED ,C503C-RCS-CYAZaAA2 ,RED LED T – 1 ¾,2POS,Thru-hole,any 5mm led 1.5-2v (should be slightly dim)
+4,J1,1,NorComp ,27630502RP2,1x5 Header pins rt. Angle,5POS,Thru-hole,Any 1x5 header for dupont
+5,J3,1,Harwin ,M20-9750846 ,1x8 Header pins rt. Angle,8POS,Thru-hole,any 1x8 header for dupont
+6,H5,1,TE Connectivity ,826949-2,1x2 Header pins rt. Angle,2POS,Thru-hole,any 1x2 header for dupont
+7,,1,,,snap in stabilizer,,,see notes in ascii bom**
