@@ -16,7 +16,7 @@ Here is the design info with some Caveats:
    electronics (formal trade school training) and I try to test everything out.
  - <strike>No BOM as of yet, but that hopefully completed by the end of the week.  some
    details of what I ordered so far are on the hack a day.  (actually updating the 
-   repo on my lunch break at work!)</strike
+   repo on my lunch break at work!)</strike>
  - BOM is updated and in Gerber's directory  
  - designs are all copyright David Collins 2023
  
