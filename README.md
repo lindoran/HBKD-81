@@ -18,6 +18,7 @@ Here is the design info with some Caveats:
    details of what I ordered so far are on the hack a day.  (actually updating the 
    repo on my lunch break at work!)</strike>
  - BOM is updated and in Gerber's directory  
+    - UPDATE: looks like the BOM, while complete is insufficient to use with most PCB assembly services working on a solution but for now it seems self assembly is the only option 
  - designs are all copyright David Collins 2023
  
 Sponsorship: 
