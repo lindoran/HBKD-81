@@ -11,7 +11,7 @@ Here is the design info with some Caveats:
  - This is CERN-OHL-P - see the very easy to understand open hardware license 
  - I don't make any grantees or warrantees; see the legal disclaimers below
  - I don't intednd to sell a product here just sharing what I have, that being 
-   said.  I am an armature, there may be mistakes but my boards worked right
+   said.  I am an amature, there may be mistakes but my boards worked right
    out of the box.  additionally i do have experience in home brew and hobby computers
    electronics (formal trade school training) and I try to test everything out.
  - <strike>No BOM as of yet, but that hopefully completed by the end of the week.  some
