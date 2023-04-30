@@ -1,1 +1,35 @@
-These are the cad files. For now 3d prints for test fitting.  In the process of verifying the 2D cad files will produce a working part with the manufacturer.
+These are the cad files.
+
+A few detials, The 2d cad files do not specify thickness.  The PT-10 Drawings state .062" 
+thick aluminium.  If you are doing the top panel, a 2MM (.072") pannel was used in the 
+prototype (as thats the actual depth of the cavity.) A 1.6mm panel is going to be weaker 
+and there will be a lip at the edge of the cavity.
+
+the back pannel is actually a lot closer to .062".  If you get ambitious and combine the two 
+pannels on the same sheet, you are going to run into problems makeing the back pannel fit at
+2MM.  I made it work but its very tight fit.   If you wind up customizeing the pannel with cut
+outs its going to crack if you try to force it with any amount of structural cut outs.  For
+the back pannel I recomend using 1.57 to 1.6mm thick material. 
+
+I pulled all of the factory installed Tinnerman Fasteners off the case, they got in the way.
+you can use them with machine screws but I just ended up using m3 size screws everywhere.
+if you just order the case without pannels (I recomend this, you aren't useing them) It won't 
+come with them installed (or shouldn't). The PT-10 drawings specify this as part 61691-02.
+
+I used a standard kit of vynal m3 stand offs and screws off of amazon. I didn't keep track of 
+the sizing.  I used a threded post stand off and nuts to hold the PCB to the top panel
+with a screw, but theres loads of configureations depending on the hight you'd like the keys 
+to be from the top of the pannel. Mine sit fairly low.
+
+the PCB is just mounted to the botom of the case with the same vynal standoffs. 
+I put screws through the bottom into threaded stand offs and held the pcb to the 
+tops with nuts. you can do what you feel comfortable with there.
+
+I put a copy of the PT-10 drawings in the documents folder if somebody needs dimentions for 
+some other reason.
+
+The case can be found on mouser here: https://mou.sr/3LkjQmr 
+ Mouser #:616-82404-501-000  | MFR:82404-501-000 PT-10 BLACK
+ 
+ I beleve theres also a listing on digikey.  case costs about 17.00 US
+    
