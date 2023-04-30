@@ -25,6 +25,12 @@ the PCB is just mounted to the botom of the case with the same vynal standoffs.
 I put screws through the bottom into threaded stand offs and held the pcb to the 
 tops with nuts. you can do what you feel comfortable with there.
 
+A BIG POINTER. use round pannel mounts everywhere you can.  unless you are very good with
+a dremmel its going to be drastically easier to get the holes in, just start with a small
+bit and step up the size.  I would go with point to point wireing here. 
+so much of the design relies on analog concepts, you don't want to introduce noise into
+an otherwise noisey design adding a whole other PCB is going to ad complexity.
+
 I put a copy of the PT-10 drawings in the documents folder if somebody needs dimentions for 
 some other reason.
 
