@@ -20,6 +20,7 @@ Here is the design info with some Caveats:
  - BOM is updated and in Gerber's directory  
     - UPDATE: looks like the BOM, while complete is insufficient to use with most PCB assembly services working on a solution but for now it seems self assembly is the only option 
  - 3D .STL files for the test fit pannel is avalible and verified to work.
+ - 2D CAD files for all the case pannels (top and back) availble, please read the build guide in that space.
  - designs are all copyright David Collins 2023
  
 Sponsorship: 
