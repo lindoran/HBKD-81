@@ -1,12 +1,6 @@
 # HBKD-81
 A Open hardware, ZX81 keyboard and case design, based off modern availible parts.
 
-OK, So this is a rough commit so everybody has a chance to get production going on the keyboard PCB.
-this project has many parts so I want to make sure that we don't loose time on something by sitting 
-on designs until the next phase is ready.
-
-additionally, a lot of people have really expressed interest in just getting a keyboard pcb.
-
 Here is the design info with some Caveats: 
  - This is CERN-OHL-P - see the very easy to understand open hardware license 
  - I don't make any grantees or warrantees; see the legal disclaimers below
@@ -22,8 +16,16 @@ Here is the design info with some Caveats:
  - 3D .STL files for the test fit pannel is avalible and verified to work.
  - 2D CAD files for all the case pannels (top and back) availble, please read the build guide in that space.
  - designs are all copyright David Collins 2023
- 
+
+<B>UPDATE:</B>
+
+ Thanks to Dr Matt Regan for trying out the keyboard on his ZX Spectrum 48k clone. I have updated some 
+ errors in the silk screen and added notes to the keyboard showing both types of connections.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/If8GkpuakHM/0.jpg)](https://www.youtube.com/watch?v=If8GkpuakHM)
+
 Sponsorship: 
+  
   This prototype was sponsored by PCBWay!  see their website here for Fabrication, PCB Manufacture 
   and more!
   
